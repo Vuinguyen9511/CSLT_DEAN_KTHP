@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 {
     double a, b, c, delta, x1, x2, x3, x4;
 
